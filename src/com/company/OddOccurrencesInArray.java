@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.stream.IntStream;
 
+
 public class OddOccurrencesInArray {
 
     public int solution(int[] A){
